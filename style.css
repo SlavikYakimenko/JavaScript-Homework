@@ -1,0 +1,16 @@
+body {
+  background:linear-gradient(#a9a9d9, #72bea8);
+  background-size: cover;
+  height: 100vh;
+}
+
+.main__banner {
+  display: flex;
+  justify-content: center;
+}
+
+.main__text {
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+}
